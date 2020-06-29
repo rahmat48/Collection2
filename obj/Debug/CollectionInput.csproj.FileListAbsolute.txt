@@ -1,0 +1,6 @@
+D:\kuliah online\Pemograman\Coding\Collection2\CollectionInput\CollectionInput\bin\Debug\CollectionInput.exe.config
+D:\kuliah online\Pemograman\Coding\Collection2\CollectionInput\CollectionInput\obj\Debug\CollectionInput.csprojResolveAssemblyReference.cache
+D:\kuliah online\Pemograman\Coding\Collection2\CollectionInput\CollectionInput\bin\Debug\CollectionInput.exe
+D:\kuliah online\Pemograman\Coding\Collection2\CollectionInput\CollectionInput\bin\Debug\CollectionInput.pdb
+D:\kuliah online\Pemograman\Coding\Collection2\CollectionInput\CollectionInput\obj\Debug\CollectionInput.exe
+D:\kuliah online\Pemograman\Coding\Collection2\CollectionInput\CollectionInput\obj\Debug\CollectionInput.pdb
